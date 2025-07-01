@@ -1,0 +1,5 @@
+IRI,parentId,id,title_cs,title_en,definition_cs,definition_en
+https://vocabs.ccmm.cz/registry/codelist/AlternateTitle/AlternativeTitle,,AlternativeTitle,Alternativní název,Alternative Title,"Alternativní název datasetu - může se jednat o uvedení nebo naopak rozepsání zkratky, přepisem číslených hodnot atd.","Alternative dataset title - could be abbreviations, transcribing numerical values, etc."
+https://vocabs.ccmm.cz/registry/codelist/AlternateTitle/Subtitle,,Subtitle,Podnázev,Subtitle,"Podnázev, který doplňuje název datasetu.",Subtitle that complements the dataset title.
+https://vocabs.ccmm.cz/registry/codelist/AlternateTitle/TranslatedTitle,,TranslatedTitle,Přeložený název,Translated Title,Překlad názvu datasetu.,Translation of the dataset title.
+https://vocabs.ccmm.cz/registry/codelist/AlternateTitle/Other,,Other,Jiný,Other,"Jiný název, než je překlad, podnázev a alternativní název.","Other title than the subtitle, transated title or alternative title."

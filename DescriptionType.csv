@@ -1,0 +1,7 @@
+IRI,parentId,id,title_cs,title_en,definition_cs,definition_en
+https://vocabs.ccmm.cz/registry/codelist/DescriptionType/Abstract,,Abstract,Abstrakt,Abstract,,A brief description of the resource and the context in which the resource was created.
+https://vocabs.ccmm.cz/registry/codelist/DescriptionType/Methods,,Methods,Metodologie,Methods,,The methodology employed for the study or research.
+https://vocabs.ccmm.cz/registry/codelist/DescriptionType/SeriesInformation,,SeriesInformation,Informace o sérii,Series Information,,"Information about a repeating series, such as volume, issue, number."
+https://vocabs.ccmm.cz/registry/codelist/DescriptionType/TableOfContents,,TableOfContents,Obsah,Table Of Contents,,A listing of the Table of Contents.
+https://vocabs.ccmm.cz/registry/codelist/DescriptionType/TechnicalInfo,,TechnicalInfo,Technická informace,Technical Info,,"Detailed information that may be associated with design, implementation, operation, use, and/or maintenance of a process, system, or instrument."
+https://vocabs.ccmm.cz/registry/codelist/DescriptionType/Other,,Other,Jiný,Other,,Other description information that does not fit into an existing category.
