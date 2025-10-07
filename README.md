@@ -20,4 +20,4 @@ A complete list of all controlled vocabularies used — including those managed 
 | Format | http://publications.europa.eu/resource/dataset/file-type | |
 | Language system | http://publications.europa.eu/resource/authority/language | |
 | Media Type | https://www.iana.org/assignments/media-types/media-types.xhtml| |
-| Resource type | https://vocabularies.coar-repositories.org/resource_types/ | |
+| Resource type | http://purl.org/coar/resource_type/ | |
