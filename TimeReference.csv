@@ -1,20 +1,21 @@
 IRI,parentId,id,title_cs,title_en,definition_cs,definition_en
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Accepted,,Accepted,Datum přijetí datasetu,Date Accepted,,"The date that the publisher accepted the resource into their system.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Accepted,,Accepted,Datum přijetí,Date Accepted,,"The date that the publisher accepted the resource into their system.
 To indicate the start of an embargo period, use Accepted or Submitted, as appropriate."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Available,,Available,Datum zveřejnění datasetu,Date Available,,"The date the resource is made publicly available. May be a range.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Available,,Available,Datum zveřejnění,Date Available,,"The date the resource is made publicly available. May be a range.
 To indicate the end of an embargo period, use Available."
 https://vocabs.ccmm.cz/registry/codelist/TimeReference/Copyrighted,,Copyrighted,Datum udělení copyrightu,Date Copyrighted,,"The specific, documented date at which the resource receives a copyrighted status, if applicable."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Collected,,Collected,Datum sběru dat,Date Collected,,"The date or date range in which the resource content was collected.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Collected,,Collected,Datum sběru,Date Collected,,"The date or date range in which the resource content was collected.
 To indicate precise or particular timeframes in which research was conducted."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Coverage,,Coverage,Časové pokrytí datasetu,Date Coverage,,"The date or date range that the resource content applies to, describes, or covers.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Coverage,,Coverage,Časové pokrytí,Date Coverage,,"The date or date range that the resource content applies to, describes, or covers.
  To indicate the temporal coverage of the resource, use Coverage. This may be different from Collected."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Created,,Created,Datum vytvoření datasetu,Date Created,,"The date the resource itself was put together; this could refer to a timeframe in ancient history, a date range, or a single date for a final component, e.g., the finalised file with all the data.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Created,,Created,Datum vytvoření,Date Created,,"The date the resource itself was put together; this could refer to a timeframe in ancient history, a date range, or a single date for a final component, e.g., the finalised file with all the data.
 Recommended for discovery."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Issued,,Issued,Datum vydání datasetu,Date Issued,,"The date that the resource is published or distributed, e.g., to a data centre."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Submitted,,Submitted,Datum podání datasetu,Date Submitted,,"The date the creator submits the resource to the publisher. This could be different from Accepted if the publisher then applies a selection process.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Issued,,Issued,Datum vydání,Date Issued,,"The date that the resource is published or distributed, e.g., to a data centre."
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Submitted,,Submitted,Datum podání,Date Submitted,,"The date the creator submits the resource to the publisher. This could be different from Accepted if the publisher then applies a selection process.
 Recommended for discovery."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Updated,,Updated,Datum aktualizace datasetu,Date Updated,,"The date of the last update to the resource, when the resource is being added to. May be a range."
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Valid,,Valid,Datum platnosti datasetu,Date Valid,,The date or date range during which the dataset or resource is accurate.
-https://vocabs.ccmm.cz/registry/codelist/TimeReference/Withdrawn,,Withdrawn,Datum odstranění datasetu,Date Withdrawn,,"The date the resource is removed.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Updated,,Updated,Datum aktualizace,Date Updated,,"The date of the last update to the resource, when the resource is being added to. May be a range."
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Valid,,Valid,Datum platnosti,Date Valid,,The date or date range during which the dataset or resource is accurate.
+https://vocabs.ccmm.cz/registry/codelist/TimeReference/Withdrawn,,Withdrawn,Datum odstranění,Date Withdrawn,,"The date the resource is removed.
  It is good practice to include a description that indicates the reason for the retraction or withdrawal."
 https://vocabs.ccmm.cz/registry/codelist/TimeReference/Other,,Other,Jiné datum,Other date,,Other date that does not fit into an existing category.
+
