@@ -1,40 +1,40 @@
-IRI,parentId,id,title_cs,title_en,definition_cs,definition_en
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsVersionOf,,IsVersionOf,je verzí,is version of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/HasVersion,,HasVersion,má verzi,has version,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsPartOf,,IsPartOf,je součástí,is part of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/HasPart,,HasPart,má část/i,has part,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsReviewedBy,,IsReviewedBy,je recenzován (čím),is reviewed by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Reviews,,Reviews,recenzuje (co),reviews,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsCompiledBy,,IsCompiledBy,kompilován (čím),is compiled by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Compiles,,Compiles,kompiluje (co),compiles,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsReferencedBy,,IsReferencedBy,je na něj odkazováno z (čeho),is referenced by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/References,,References,odkazuje (na co),references,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsCitedBy,,IsCitedBy,je citován (čím),is cited by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Cites,,Cites,cituje (co),cites,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsSupplementTo,,IsSupplementTo,je doplňkem k (čemu),is supplement to,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsSupplementedBy,,IsSupplementedBy,má doplněk,is supplemented by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Describes,,Describes,popisuje (co),describes,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsDescribedBy,,IsDescribedBy,je popsán (čím),is described by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsPublishedIn,,IsPublishedIn,je publikován v,is published in,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsRequiredBy,,IsRequiredBy,je požadován (čím),is required by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Requires,,Requires,požaduje (co),requires,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsContinuedBy,,IsContinuedBy,je pokračováním (čeho),is continued by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Continues,,Continues,pokračuje (čím),continues,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/HasMetadata,,HasMetadata,má metadata,has metadata,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsMetadataFor,,IsMetadataFor,je metadaty pro,is metadata for,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsNewVersionOf,,IsNewVersionOf,je novou verzí (čeho),is new version of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsPreviousVersionOf,,IsPreviousVersionOf,je předchozí verzí (čeho),is previous version of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsDocumentedBy,,IsDocumentedBy,je zdokumentován (čím),is documented by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Documents,,Documents,dokumentuje (co),documents,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsVariantFormOf,,IsVariantFormOf,je variantou (čeho),is variant form of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsOriginalFormOf,,IsOriginalFormOf,je původní variantou (čeho),is original form of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsIdenticalTo,,IsIdenticalTo,je identický s,is identical to,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsDerivedFrom,,IsDerivedFrom,je odvozen od (čeho),is derived from,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsSourceOf,,IsSourceOf,je zdrojem odvozené verze,is source of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Obsoletes,,Obsoletes,nahrazuje (co),obsoletes,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsObsoletedBy,,IsObsoletedBy,je nahrazen (čím),is obsoleted by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsTranslationOf,,IsTranslationOf,je překladem (čeho),is translation of,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/HasTranslation,,HasTranslation,má překlad,has translation,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/IsCollectedBy,,IsCollectedBy,je sbírán (čím),is collected by,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Collects,,Collects,sbírá,collects,,
-https://vocabs.ccmm.cz/registry/codelist/RelationType/Other,,Other,jiná role,other,,
+﻿IRI,parentId,id,title_cs,title_en,definition_cs,definition_en
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsVersionOf,,IsVersionOf,je verzí,is version of,"označuje, že A je verzí B",indicates A is a version of B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/HasVersion,,HasVersion,má verzi,has version,"označuje, že A má verzi B",indicates A has a version B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsPartOf,,IsPartOf,je součástí,is part of,"označuje, že A je součástí B; lze použít pro jednotlivé prvky řady (série)",indicates A is a portion of B; may be used for elements of a series
+https://vocabs.ccmm.cz/registry/codelist/RelationType/HasPart,,HasPart,má část/i,has part,"označuje, že A má část B",indicates A includes the part B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsReviewedBy,,IsReviewedBy,je recenzován (čím),is reviewed by,"označuje, že A je recenzován entitou B",indicates that A is reviewed by B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Reviews,,Reviews,recenzuje (co),reviews,"označuje, že entita A je recenzí B",indicates that A is a review of B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsCompiledBy,,IsCompiledBy,kompilován (čím),is compiled by,"označuje, že B je použit ke kompilaci nebo vytvoření A",indicates B is used to compile or create A
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Compiles,,Compiles,kompiluje (co),compiles,"označuje, že B je výsledkem kompilace nebo vytvoření za použití A",indicates B is the result of a compile or creation event using A
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsReferencedBy,,IsReferencedBy,je na něj odkazováno z (čeho),is referenced by,"označuje, že na A je odkazován z B",indicates A is used as a source of information by B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/References,,References,odkazuje (na co),references,"označuje, že B odkazuje na A",indicates B is used as a source of information for A
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsCitedBy,,IsCitedBy,je citován (čím),is cited by,"označuje, že B cituje A",indicates that B includes A in a citation
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Cites,,Cites,cituje (co),cites,"označuje, že A cituje B",indicates that A includes B in a citation
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsSupplementTo,,IsSupplementTo,je doplňkem k (čemu),is supplement to,"označuje, že A je doplňkem B",indicates that A is a supplement to B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsSupplementedBy,,IsSupplementedBy,má doplněk,is supplemented by,"označuje, že B je doplňkem A",indicates that B is a supplement to A
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Describes,,Describes,popisuje (co),describes,"označuje, že A popisuje B",indicates A describes B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsDescribedBy,,IsDescribedBy,je popsán (čím),is described by,"označuje, že A je popsán B",indicates A is described by B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsPublishedIn,,IsPublishedIn,je publikován v,is published in,"označuje, že A je publikován v B, ale je nezávislý na ostatních věcech publikovaných uvnitř B","indicates A is published inside B, but is independent of other things published inside of B"
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsRequiredBy,,IsRequiredBy,je požadován (čím),is required by,"označuje, že A je vyžadován entitou B",Indicates A is required by B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Requires,,Requires,požaduje (co),requires,"označuje, že A vyžaduje B",Indicates A requires B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsContinuedBy,,IsContinuedBy,je pokračováním (čeho),is continued by,"označuje, že A pokračuje dílem B",indicates A is continued by the work B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Continues,,Continues,pokračuje (čím),continues,"označuje, že A je pokračováním díla B",indicates A is a continuation of the work B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/HasMetadata,,HasMetadata,má metadata,has metadata,"označuje, že zdroj A má další metadata B",indicates resource A has additional metadata B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsMetadataFor,,IsMetadataFor,je metadaty pro,is metadata for,označuje další metadata A pro zdroj B,indicates additional metadata A for a resource B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsNewVersionOf,,IsNewVersionOf,je novou verzí (čeho),is new version of,"označuje, že A je novým vydáním B, přičemž toto nové vydání bylo upraveno nebo aktualizováno","indicates A is a new edition of B, where the new edition has been modified or updated"
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsPreviousVersionOf,,IsPreviousVersionOf,je předchozí verzí (čeho),is previous version of,"označuje, že A je předchozím vydáním B",indicates A is a previous edition of B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsDocumentedBy,,IsDocumentedBy,je zdokumentován (čím),is documented by,"označuje, že B je dokumentací vysvětlující A",indicates B is documentation about/explaining A
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Documents,,Documents,dokumentuje (co),documents,"označuje, že A je dokumentací vysvětlující B",indicates A is documentation about/explaining B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsVariantFormOf,,IsVariantFormOf,je variantou (čeho),is variant form of,"označuje, že A je variantou nebo jinou formou B",indicates A is a variant or different form of B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsOriginalFormOf,,IsOriginalFormOf,je původní variantou (čeho),is original form of,"označuje, že A je původní variantou B",indicates A is the original form of B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsIdenticalTo,,IsIdenticalTo,je identický s,is identical to,"označuje, že A je identické s B (použije se v případě potřeby zaregistrovat dvě samostatné instance téhož zdroje)","indicates that A is identical to B, for use when there is a need to register two separate instances of the same resource"
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsDerivedFrom,,IsDerivedFrom,je odvozen od (čeho),is derived from,"označuje, že B je zdrojem, na kterém je A založen",indicates B is a source upon which A is based
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsSourceOf,,IsSourceOf,je zdrojem odvozené verze,is source of,"označuje, že A je zdrojem, na kterém je B založen",indicates A is a source upon which B is based
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Obsoletes,,Obsoletes,nahrazuje (co),obsoletes,"označuje, že A nahrazuje B",Indicates A replaces B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsObsoletedBy,,IsObsoletedBy,je nahrazen (čím),is obsoleted by,"označuje, že A je nahrazen B",Indicates A is replaced by B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsTranslationOf,,IsTranslationOf,je překladem (čeho),is translation of,"označuje, že A je překladem B",indicates A is a translation of B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/HasTranslation,,HasTranslation,má překlad,has translation,"označuje, že A má překlad B",indicates A has a translation B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/IsCollectedBy,,IsCollectedBy,je sbírán (čím),is collected by,"označuje, že A je sbírán/shromažďován entitou B",Indicates A is collected by B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Collects,,Collects,sbírá,collects,"označuje, že A sbírá/shromažďuje B",Indicates A collects B
+https://vocabs.ccmm.cz/registry/codelist/RelationType/Other,,Other,jiná role,other,"označuje, že A souvisí s B a tento vztah neodpovídá žádné z existujících kategorií",indicates that A is related to B and the relationship does not fit into an existing category
